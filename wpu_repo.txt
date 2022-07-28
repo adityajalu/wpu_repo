@@ -6,3 +6,5 @@ belajar git dan github
 -belajar remote
 -belajar push
 -belajar pull
+
+-belajar edit
