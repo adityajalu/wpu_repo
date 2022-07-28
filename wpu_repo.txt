@@ -1,0 +1,8 @@
+belajar git dan github
+-belajar commit
+-belajar hash
+-belajar branch
+-belajar chekout
+-belajar remote
+-belajar push
+-belajar pull
