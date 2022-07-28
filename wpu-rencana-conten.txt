@@ -1,5 +1,0 @@
-rencana konten wpu
-
-belajar git dan github
-belajar backend
-belajar rest api
